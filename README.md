@@ -21,9 +21,9 @@
 
 Система работает на легендарном «инструменте для работы», который до сих пор в строю:
 
-* **Модель:** Lenovo ThinkPad X1 Carbon Gen 2
-* **Процессор:** Intel Core i7-4600U
-* **Память:** 8GB DDR3
+- **Модель:** Lenovo ThinkPad X1 Carbon Gen 2
+- **Процессор:** Intel Core i7-4600U
+- **Память:** 8GB DDR3
 
 ---
 
@@ -31,11 +31,11 @@
 
 Набор инструментов, проверенный временем:
 
-* **Интернет:** Firefox, Telegram, Discord
-* **Код:** VS Code (One Dark Pro), Neovim
-* **Терминал:** Fastfetch, btop, bat
-* **Заметки:** Obsidian, OnlyOffice
-* **Безопасность:** KeePassXC
+- **Интернет:** Firefox, Telegram, Discord
+- **Код:** VS Code (One Dark Pro), Neovim
+- **Терминал:** Fastfetch, btop, bat
+- **Заметки:** Obsidian, OnlyOffice
+- **Безопасность:** KeePassXC
 
 ---
 
@@ -43,11 +43,11 @@
 
 ### Интерфейс
 
-* **Шрифт:** `Fira Code` (лучший выбор для кода).
-* **Расширения Gnome:** * `Blur my shell` — добавляет эстетичный блюр.
-* `AppIndicator` — возвращает нужные иконки в трей.
+- **Шрифт:** `Fira Code` (лучший выбор для кода).
+- **Расширения Gnome:** `Blur my shell` — добавляет эстетичный блюр.
+- `AppIndicator` — возвращает нужные иконки в трей.
 
 ### Obsidian (Второй мозг)
 
-* **Тема:** Minimal
-* **Плагины:** Templater, Excalidraw
+- **Тема:** Minimal
+- **Плагины:** Templater, Excalidraw
